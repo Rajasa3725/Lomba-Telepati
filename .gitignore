@@ -23,4 +23,12 @@ __pycache__/
 
 # System / OS
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+
+lomba/train/                                                                                                                                                                                                 
+weights/                                                                                                                                                                                                                                            
+.python-version                                 
+>>>>>>> 4b541eb059fde940d32930716c59b564b2148ee9
